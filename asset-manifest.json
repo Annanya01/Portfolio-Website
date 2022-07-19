@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.0ebfe5e1.css",
+    "main.js": "/Portfolio-Website/static/js/main.79ceb84a.js",
+    "static/media/me3.jpg": "/Portfolio-Website/static/media/me3.81202b286e97f39dac4f.jpg",
+    "static/media/Annanya Vijay.pdf": "/Portfolio-Website/static/media/Annanya Vijay.260603938dea2d69847d.pdf",
+    "static/media/portfolio5.png": "/Portfolio-Website/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me2.jpg": "/Portfolio-Website/static/media/me2.18c6a261049b7bd623bb.jpg",
+    "static/media/portfolio2.jpg": "/Portfolio-Website/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Portfolio-Website/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Portfolio-Website/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Portfolio-Website/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Portfolio-Website/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.0ebfe5e1.css.map": "/Portfolio-Website/static/css/main.0ebfe5e1.css.map",
+    "main.79ceb84a.js.map": "/Portfolio-Website/static/js/main.79ceb84a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebfe5e1.css",
+    "static/js/main.79ceb84a.js"
+  ]
+}
